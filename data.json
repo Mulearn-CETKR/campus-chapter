@@ -1,7 +1,7 @@
 {
-    "collegeCode": "SNT",
+    "collegeCode": "TKR",
 
-    "college": "Sree Narayana Guru Institute of Science and Technology",
+    "college": "College of Engineering Trikaripur",
 
     "about": "Lorem ipsum dolor sit amet consectetur adipiscing, elit ultricies imperdiet neque mattis, orci pellentesque turpis facilisi leo. Laoreet donec tortor sagittis habitasse eleifend conubia quis lacinia accumsan auctor, montes morbi natoque convallis integer aliquam posuere eu nulla, proin fames dapibus mattis sociis ligula blandit quam potenti. Himenaeos fringilla tincidunt aptent porta ultrices velit dignissim senectus purus suspendisse, fames eleifend feugiat nam hac montes semper pretium potenti, viverra curae netus volutpat cras per eu cubilia primis.",
 
@@ -75,15 +75,15 @@
 
     "team": {
         "staffAdvisor": {
-            "name": "Enric S Neelamkavil",
+            "name": "Reejamol K J",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "campusLead": {
-            "name": "Elon Musk",
+            "name": "YadhuNandanan P V",
             "image": "https://th.bing.com/th/id/OIP.DjyPSeO-t7bK2agoLSYJzgHaHa?pid=ImgDet&rs=1"
         },
         "campusCoLead": {
-            "name": "Enric S Neelamkavil",
+            "name": "deepak",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "treasurer": {
