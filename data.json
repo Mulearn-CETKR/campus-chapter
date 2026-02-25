@@ -1,5 +1,5 @@
 {
-    "collegeCode": "TKR",
+    "collegeCode": "CETKR",
 
     "college": "College of Engineering Trikaripur",
 
@@ -94,12 +94,12 @@
             "name": "Sidharth P V",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "mediaLead": {
+        "creativeLead": {
             "name": "Mrudul Chandran",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
-        "Lead": {
-            "name": "",
+        "IGLead": {
+            "name": "Harinandan P V",
             "image": "https://mulearn-cce.vercel.app/static/media/img1.31943833473f0d0a748b.png"
         },
         "operationLead": {
